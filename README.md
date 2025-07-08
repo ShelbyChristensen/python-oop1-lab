@@ -117,3 +117,9 @@ Before you submit your solution, you need to save your progress with git.
   * Click on + Create Submission. Connect your repository for this lab.
   * For additional information on submitting assignments in CodeGrade: [Getting Started in Canvas](https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas)
 
+## Usage
+
+### Testing
+Run tests to confirm functionality:
+```bash
+pytest
